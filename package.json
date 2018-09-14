@@ -1,0 +1,13 @@
+{
+  "name": "wtfunction",
+  "keywords": [
+    "ramda",
+    "typescript"
+  ],
+  "devDependencies": {
+    "@types/node": "8.0.30",
+    "@types/ramda": "types/npm-ramda#v0.24.1-dist",
+    "ramda": "0.24.1",
+    "typescript": "2.5.2"
+  }
+}
